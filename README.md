@@ -11,16 +11,16 @@ Upon installation, open and run the file expense-tracker.py in a code editor suc
 
 # Features
 ## Home
-![alt text](https://github.com/illkyo/python-expense-tracker/pics/home.png?raw=true)
+![alt text](https://github.com/illkyo/python-expense-tracker/blob/main/pics/home.png)
 ## Enter expenses
 Press '1' and hit Enter
-![alt text](https://github.com/illkyo/python-expense-tracker/pics/enter-expense.png?raw=true)
+![alt text](https://github.com/illkyo/python-expense-tracker/blob/main/pics/enter-expense.png)
 ## View expenses
 Press '2' and hit Enter
-![alt text](https://github.com/illkyo/python-expense-tracker/pics/view-expense.png?raw=true)
+![alt text](https://github.com/illkyo/python-expense-tracker/blob/main/pics/view-expense.png)
 ## Predict Expenses
 Press '3' and hit Enter
-![alt text](https://github.com/illkyo/python-expense-tracker/pics/predict-expense.png?raw=true)
+![alt text](https://github.com/illkyo/python-expense-tracker/blob/main/pics/predict-expense.png)
 ## Plan Savings
 Press '4' and hit Enter
-![alt text](https://github.com/illkyo/python-expense-tracker/pics/plan-savings.png?raw=true)
+![alt text](https://github.com/illkyo/python-expense-tracker/blob/main/pics/plan-savings.png)
